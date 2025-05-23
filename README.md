@@ -109,6 +109,10 @@ I'm a Computer Science undergraduate passionate about crafting real-world applic
   <img width="500" src="https://github-readme-streak-stats.herokuapp.com?user=vikram84846&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
+
+### 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=vikram84846&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
 ---
 
 ## ✍️ Random Dev Quote
