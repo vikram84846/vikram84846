@@ -20,55 +20,59 @@ I'm a Computer Science undergraduate passionate about crafting real-world applic
 ---
 
 ## 🧰 Tech Stack 
-<!-- Languages -->
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="30"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" height="30"/>
+<h2>🚀 Tech Stack</h2>
 
-<br/>
+<p align="center">
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" height="40"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=flat&logo=mysql&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" height="40"/>
+</p>
 
-<!-- Frameworks & Tools -->
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react" height="30"/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js" height="30"/>
+<p align="center">
+  <!-- Frameworks & Libraries -->
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react" height="40"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js" height="40"/>
+</p>
 
-<br/>
+<p align="center">
+  <!-- AI/ML -->
+  <img src="https://img.shields.io/badge/LangChain-00BFA6?style=flat" height="40"/>
+  <img src="https://img.shields.io/badge/Gemini-5C5CFF?style=flat" height="40"/>
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai" height="40"/>
+  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas" height="40"/>
+</p>
 
-<!-- AI/ML -->
-<img src="https://img.shields.io/badge/LangChain-00BFA6?style=flat" height="30"/>
-<img src="https://img.shields.io/badge/Gemini-5C5CFF?style=flat" height="30"/>
-<img src="https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai" height="30"/>
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/pandas-150458?style=flat&logo=pandas" height="30"/>
+<p align="center">
+  <!-- DevOps & Deployment -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Render-0099FF?style=flat&logo=render" height="40"/>
+</p>
 
-<br/>
+<p align="center">
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" height="40"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" height="40"/>
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" height="40"/>
+</p>
 
-<!-- DevOps -->
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=github-actions&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Render-0099FF?style=flat&logo=render" height="30"/>
-
-<br/>
-
-<!-- Databases -->
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white" height="30"/>
-<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat&logo=firebase&logoColor=black" height="30"/>
-<img src="https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white" height="30"/>
-
-<br/>
-
-<!-- UI/UX -->
-<img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css" height="30"/>
-<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap" height="30"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma" height="30"/>
+<p align="center">
+  <!-- Design -->
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css" height="40"/>
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap" height="40"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma" height="40"/>
+</p>
 
 
 ---
