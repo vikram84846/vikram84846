@@ -1,5 +1,11 @@
-<h1 align="center">👋 Hi, I'm Vikram Singh!</h1>
-<p align="center">🎯 Passionate about building real-world applications that solve complex problems using Python, JavaScript, and modern frameworks.</p>
+<h1 align="center">👋 Hi, I'm Vikram Rajpurohit!</h1>
+<p align="center">🚀 CS Major (2021–25) | AI/ML Enthusiast | Full-Stack Developer | Always Learning & Building</p>
+
+---
+
+## 🧠 About Me
+
+I'm a Computer Science undergraduate passionate about crafting real-world applications that address complex problems. My expertise lies in Python, JavaScript, and modern frameworks like FastAPI, Django, React, and Tailwind CSS. I specialize in AI/ML, full-stack web development, and agentic AI using LangChain and Gemini.
 
 ---
 
@@ -82,8 +88,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=your-github-username&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
+  <img width="500" src="https://github-readme-stats.vercel.app/api?username=vikram84846&show_icons=true&theme=radical" />
+  <img width="500" src="https://github-readme-streak-stats.herokuapp.com?user=vikram84846&theme=radical&date_format=M%20j%5B%2C%20Y%5D" />
 </p>
 
 ---
@@ -91,7 +97,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=your-github-username&theme=radical&no-frame=true" />
+  <img width="700" src="https://github-profile-trophy.vercel.app/?username=vikram84846&theme=radical&no-frame=true" />
 </p>
 
 ---
@@ -99,5 +105,7 @@
 ## ✍️ Random Dev Quote
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
+  <img width="600" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
+
+
